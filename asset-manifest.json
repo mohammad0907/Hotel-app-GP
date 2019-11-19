@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Hotel-app-GP/static/css/main.6d2fb2cb.chunk.css",
+    "main.js": "/Hotel-app-GP/static/js/main.94b111fe.chunk.js",
+    "main.js.map": "/Hotel-app-GP/static/js/main.94b111fe.chunk.js.map",
+    "runtime-main.js": "/Hotel-app-GP/static/js/runtime-main.c2d6e6bd.js",
+    "runtime-main.js.map": "/Hotel-app-GP/static/js/runtime-main.c2d6e6bd.js.map",
+    "static/js/2.b6aa720b.chunk.js": "/Hotel-app-GP/static/js/2.b6aa720b.chunk.js",
+    "static/js/2.b6aa720b.chunk.js.map": "/Hotel-app-GP/static/js/2.b6aa720b.chunk.js.map",
+    "index.html": "/Hotel-app-GP/index.html",
+    "precache-manifest.150f982edd05a192f48b157d8c22b445.js": "/Hotel-app-GP/precache-manifest.150f982edd05a192f48b157d8c22b445.js",
+    "service-worker.js": "/Hotel-app-GP/service-worker.js",
+    "static/css/main.6d2fb2cb.chunk.css.map": "/Hotel-app-GP/static/css/main.6d2fb2cb.chunk.css.map",
+    "static/media/bed.jpg": "/Hotel-app-GP/static/media/bed.0e375675.jpg",
+    "static/media/App.css": "/Hotel-app-GP/static/media/introPic.f3ed208f.jpg",
+    "static/media/dish.png": "/Hotel-app-GP/static/media/dish.09f54f6b.png",
+    "static/media/hair-dryer.png": "/Hotel-app-GP/static/media/hair-dryer.66793b7b.png",
+    "static/media/homePic.jpg": "/Hotel-app-GP/static/media/homePic.a89ec1f8.jpg",
+    "static/media/logo.jpg": "/Hotel-app-GP/static/media/logo.791be8a9.jpg",
+    "static/media/phone.png": "/Hotel-app-GP/static/media/phone.7a82830a.png",
+    "static/media/pool.png": "/Hotel-app-GP/static/media/pool.77ce8203.png",
+    "static/media/pool.jpg": "/Hotel-app-GP/static/media/pool.c0987635.jpg",
+    "static/media/room2.jpg": "/Hotel-app-GP/static/media/room2.b08fae2c.jpg",
+    "static/media/roomImageThree.jpg": "/Hotel-app-GP/static/media/roomImageThree.c685ccc6.jpg",
+    "static/media/roomImgOne.jpg": "/Hotel-app-GP/static/media/roomImgOne.c2441f45.jpg",
+    "static/media/roomImgTwo.jpg": "/Hotel-app-GP/static/media/roomImgTwo.59b2efc6.jpg",
+    "static/media/safebox.png": "/Hotel-app-GP/static/media/safebox.afaf9285.png",
+    "static/media/spa.jpg": "/Hotel-app-GP/static/media/spa.1529bc71.jpg",
+    "static/media/testImage.jpg": "/Hotel-app-GP/static/media/testImage.24794894.jpg",
+    "static/media/wifi.png": "/Hotel-app-GP/static/media/wifi.7dca2eff.png"
+  }
+}
