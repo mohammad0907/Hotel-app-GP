@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a76e9fceb6262f46e4fc19eb5e0331b",
+    "revision": "51d8485fb69b00b5f7a6d3db1bdaaae1",
     "url": "/Hotel-app-GP/index.html"
   },
   {
-    "revision": "cd79281148ee4bdd908e",
+    "revision": "02b1f4df0480a450a079",
     "url": "/Hotel-app-GP/static/css/main.6d2fb2cb.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Hotel-app-GP/static/js/2.b6aa720b.chunk.js"
   },
   {
-    "revision": "cd79281148ee4bdd908e",
-    "url": "/Hotel-app-GP/static/js/main.2b88b333.chunk.js"
+    "revision": "02b1f4df0480a450a079",
+    "url": "/Hotel-app-GP/static/js/main.629069f2.chunk.js"
   },
   {
     "revision": "50383b1143c7fdcdcde6",
